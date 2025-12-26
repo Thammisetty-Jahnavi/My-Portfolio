@@ -36,7 +36,7 @@ This portfolio is designed to highlight my academic background, projects, and te
 ## 📂 Project Structure
 
 ```text
-portfolio/
+My-Portfolio/
 │
 ├── index.html      # Main HTML file
 ├── style.css       # Styling and animations
